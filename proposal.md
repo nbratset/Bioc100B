@@ -3,5 +3,7 @@ Another possible mechanism for how this might occur is a multi-protein interacti
 
 ### Sources:
 [1]Ma, Yuanyuan et al. “Structural basis and functional analysis of the SARS coronavirus nsp14-nsp10 complex.” *Proceedings of the National Academy of Sciences of the United States of America* vol. 112,30 (2015): 9436-41. doi:10.1073/pnas.1508686112\
+
 [2]Rangan, Ramya et al. “RNA genome conservation and secondary structure in SARS-CoV-2 and SARS-related viruses: a first look.” *RNA (New York, N.Y.)* vol. 26,8 (2020): 937-959. doi:10.1261/rna.076141.120
+
 [3]Rastogi, Meghana et al. “SARS coronavirus 2: from genome to infectome.” *Respiratory research* vol. 21,1 318. 1 Dec. 2020, doi:10.1186/s12931-020-01581-z
