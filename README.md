@@ -9,6 +9,7 @@ Files:
 - VRC S652-109-Table 2.csv
 - VRC S652-112-Table 2.csv
 - VRC S652-118-Table 2.csv
+(Note: This data is NOT MINE so please do not use it without contacting me!)
 ## SARS-CoV-2 Mech Proposal
 Proposes a potential mechanism for SARS-CoV-2 subgenomic mRNA modification.
 
