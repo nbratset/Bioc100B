@@ -16,3 +16,7 @@ Proposes a potential mechanism for SARS-CoV-2 subgenomic mRNA modification.
 
 Files: 
 - proposal.md
+
+## Single Turnover Ribozyme Experimental Data Plot
+Plots single turnover data to find Fo, Fsat, and kobs.
+- Single-Turnover.ipynb
